@@ -370,10 +370,10 @@ function HomePage() {
 							children: [/* @__PURE__ */ (0, import_jsx_runtime.jsxs)("div", { children: [
 								/* @__PURE__ */ (0, import_jsx_runtime.jsxs)("span", {
 									className: "inline-flex items-center gap-2 rounded-full border border-[#9edbd3] bg-white/80 px-4 py-2.5 text-base font-extrabold text-[#07877f] shadow-sm",
-									children: [/* @__PURE__ */ (0, import_jsx_runtime.jsx)(Sparkles, { className: "h-5 w-5" }), " 돌봄은 집에서 삶을 강남에서"]
+									children: [/* @__PURE__ */ (0, import_jsx_runtime.jsx)(Sparkles, { className: "h-5 w-5" }), " 돌봄은 집에서 삶은 강남에서"]
 								}),
 								/* @__PURE__ */ (0, import_jsx_runtime.jsx)("h1", {
-									className: "mt-6 max-w-2xl text-4xl font-black leading-[1.14] tracking-[-0.055em] sm:text-5xl lg:text-[3.7rem]",
+									className: "mt-6 max-w-2xl whitespace-nowrap text-3xl font-black leading-[1.14] tracking-[-0.03em] sm:text-4xl lg:text-[3.1rem]",
 									children: "강남구민 맞춤 돌봄 길잡이"
 								}),
 								/* @__PURE__ */ (0, import_jsx_runtime.jsx)("p", {
