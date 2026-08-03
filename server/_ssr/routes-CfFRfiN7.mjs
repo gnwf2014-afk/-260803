@@ -369,23 +369,12 @@ function HomePage() {
 							className: "relative mx-auto grid max-w-7xl items-center gap-10 px-4 py-12 sm:px-6 lg:grid-cols-[1.04fr_0.96fr] lg:py-16",
 							children: [/* @__PURE__ */ (0, import_jsx_runtime.jsxs)("div", { children: [
 								/* @__PURE__ */ (0, import_jsx_runtime.jsxs)("span", {
-									className: "inline-flex items-center gap-2 rounded-full border border-[#9edbd3] bg-white/80 px-3.5 py-2 text-xs font-extrabold text-[#07877f] shadow-sm",
-									children: [/* @__PURE__ */ (0, import_jsx_runtime.jsx)(Sparkles, { className: "h-4 w-4" }), " 강남구민 맞춤 돌봄 길잡이"]
+									className: "inline-flex items-center gap-2 rounded-full border border-[#9edbd3] bg-white/80 px-4 py-2.5 text-base font-extrabold text-[#07877f] shadow-sm",
+									children: [/* @__PURE__ */ (0, import_jsx_runtime.jsx)(Sparkles, { className: "h-5 w-5" }), " 돌봄은 집에서 삶을 강남에서"]
 								}),
-								/* @__PURE__ */ (0, import_jsx_runtime.jsx)("p", {
-									className: "mt-6 text-xs font-black tracking-[0.2em] text-[#07877f]",
-									children: "GANGNAM CARE CONNECT"
-								}),
-								/* @__PURE__ */ (0, import_jsx_runtime.jsxs)("h1", {
-									className: "mt-3 max-w-2xl text-4xl font-black leading-[1.14] tracking-[-0.055em] sm:text-5xl lg:text-[3.7rem]",
-									children: [
-										"내 상황에 맞는 돌봄을",
-										/* @__PURE__ */ (0, import_jsx_runtime.jsx)("br", {}),
-										/* @__PURE__ */ (0, import_jsx_runtime.jsx)("span", {
-											className: "text-[#07988f]",
-											children: "3분 만에 찾아보세요"
-										})
-									]
+								/* @__PURE__ */ (0, import_jsx_runtime.jsx)("h1", {
+									className: "mt-6 max-w-2xl text-4xl font-black leading-[1.14] tracking-[-0.055em] sm:text-5xl lg:text-[3.7rem]",
+									children: "강남구민 맞춤 돌봄 길잡이"
 								}),
 								/* @__PURE__ */ (0, import_jsx_runtime.jsx)("p", {
 									className: "mt-5 max-w-xl text-base leading-8 text-[#547179] sm:text-lg",
@@ -455,22 +444,6 @@ function HomePage() {
 											})
 										]
 									}),
-									/* @__PURE__ */ (0, import_jsx_runtime.jsx)("div", {
-										className: "absolute -left-2 top-7 rounded-2xl border border-white bg-white/95 p-3 shadow-xl sm:-left-8",
-										children: /* @__PURE__ */ (0, import_jsx_runtime.jsxs)("div", {
-											className: "flex items-center gap-2.5",
-											children: [/* @__PURE__ */ (0, import_jsx_runtime.jsx)("span", {
-												className: "grid h-9 w-9 place-items-center rounded-xl bg-[#fff0e8] text-[#d46a3b]",
-												children: /* @__PURE__ */ (0, import_jsx_runtime.jsx)(ShieldCheck, { className: "h-5 w-5" })
-											}), /* @__PURE__ */ (0, import_jsx_runtime.jsxs)("div", { children: [/* @__PURE__ */ (0, import_jsx_runtime.jsx)("p", {
-												className: "text-[10px] text-[#6a7f84]",
-												children: "쉽고 안전하게"
-											}), /* @__PURE__ */ (0, import_jsx_runtime.jsx)("p", {
-												className: "text-sm font-black",
-												children: "공공 돌봄 정보"
-											})] })]
-										})
-									})
 								]
 							})]
 						})
