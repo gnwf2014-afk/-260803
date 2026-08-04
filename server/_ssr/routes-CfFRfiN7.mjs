@@ -378,7 +378,7 @@ function HomePage() {
 								}),
 								/* @__PURE__ */ (0, import_jsx_runtime.jsx)("p", {
 									className: "mt-5 max-w-xl text-base leading-8 text-[#547179] sm:text-lg",
-									children: "어디에 문의해야 할지 몰라도 괜찮아요. 지금 필요한 도움을 선택하면 가까운 서비스와 신청 방법까지 한 번에 안내합니다."
+									children: "필요한 돌봄서비스를 검색하고 편리하게 안내 받을 수 있는 AI검색 창입니다."
 								}),
 								/* @__PURE__ */ (0, import_jsx_runtime.jsxs)("form", {
 									onSubmit: submitSearch,

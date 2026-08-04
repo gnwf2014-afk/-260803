@@ -37,12 +37,12 @@ var public_assets_data_default = {
 		"size": 61936,
 		"path": "../public/assets/map-gangnam-pB8UKu--.js"
 	},
-	"/assets/routes-fix5953a1.js": {
+	"/assets/routes-fixf815a1.js": {
 		"type": "text/javascript; charset=utf-8",
-		"etag": "\"17579-ProswMpfVtIw46mkqb7OGIUEWxw\"",
-		"mtime": "2026-08-03T07:21:18.000Z",
-		"size": 95609,
-		"path": "../public/assets/routes-fix5953a1.js"
+		"etag": "\"1753b-73wFBDar12bpV8M9brTcT43SGgc\"",
+		"mtime": "2026-08-04T00:45:10.000Z",
+		"size": 95547,
+		"path": "../public/assets/routes-fixf815a1.js"
 	},
 	"/assets/services-DANwIzbe.js": {
 		"type": "text/javascript; charset=utf-8",
