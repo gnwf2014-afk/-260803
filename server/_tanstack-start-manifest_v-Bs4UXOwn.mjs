@@ -13,7 +13,7 @@ var tsrStartManifest = () => ({ routes: {
 	"/": {
 		filePath: "/home/user/build-site/src/routes/index.tsx",
 		children: void 0,
-		preloads: ["/assets/routes-fix54ab34.js", "/assets/map-gangnam-pB8UKu--.js"]
+		preloads: ["/assets/routes-fix0692e1.js", "/assets/map-gangnam-pB8UKu--.js"]
 	},
 	"/services": {
 		filePath: "/home/user/build-site/src/routes/services.tsx",

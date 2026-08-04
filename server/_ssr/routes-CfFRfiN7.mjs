@@ -429,18 +429,15 @@ function HomePage() {
 												fetchPriority: "high"
 											}),
 											/* @__PURE__ */ (0, import_jsx_runtime.jsx)("div", { className: "absolute inset-x-0 bottom-0 h-32 bg-gradient-to-t from-[#123f48]/80 to-transparent" }),
-											/* @__PURE__ */ (0, import_jsx_runtime.jsxs)("div", {
-												className: "absolute bottom-5 left-5 right-5 flex items-end justify-between gap-4 text-white",
-												children: [/* @__PURE__ */ (0, import_jsx_runtime.jsxs)("div", { children: [/* @__PURE__ */ (0, import_jsx_runtime.jsx)("p", {
+											/* @__PURE__ */ (0, import_jsx_runtime.jsx)("div", {
+												className: "absolute bottom-5 left-5 right-5 flex items-end text-white",
+												children: /* @__PURE__ */ (0, import_jsx_runtime.jsxs)("div", { children: [/* @__PURE__ */ (0, import_jsx_runtime.jsx)("p", {
 													className: "text-xs text-white/75",
 													children: "생활 가까이 이어지는"
 												}), /* @__PURE__ */ (0, import_jsx_runtime.jsx)("p", {
 													className: "mt-1 font-extrabold sm:text-lg",
 													children: "빈틈없는 우리동네 돌봄"
-												})] }), /* @__PURE__ */ (0, import_jsx_runtime.jsx)("span", {
-													className: "rounded-full bg-white/90 px-3 py-1.5 text-xs font-black text-[#07877f]",
-													children: "285개 시설 연결"
-												})]
+												})] })
 											})
 										]
 									}),
