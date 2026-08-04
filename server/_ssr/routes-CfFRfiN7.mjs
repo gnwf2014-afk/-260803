@@ -425,7 +425,7 @@ function HomePage() {
 											/* @__PURE__ */ (0, import_jsx_runtime.jsx)("img", {
 												src: hero_community_v2_default,
 												alt: "가족과 돌봄 전문가가 함께 웃는 모습",
-												className: "aspect-[1.18/1] w-full object-cover object-[64%_center]",
+												className: "aspect-[1.5/1] w-full object-cover object-[44%_center]",
 												fetchPriority: "high"
 											}),
 											/* @__PURE__ */ (0, import_jsx_runtime.jsx)("div", { className: "absolute inset-x-0 bottom-0 h-32 bg-gradient-to-t from-[#123f48]/80 to-transparent" }),
