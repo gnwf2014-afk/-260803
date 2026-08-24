@@ -175,15 +175,15 @@ var $$splitComponentImporter$1 = () => import("./routes-CfFRfiN7.mjs");
 var Route$1 = createFileRoute("/")({
 	head: () => ({ meta: [{ title: "강남형 통합돌봄 G-care | 내 상황에 맞는 돌봄을 한곳에서" }, {
 		name: "description",
-		content: "강남구민을 위한 의료·요양·복지·주거 통합돌봄 안내와 우리동네 복지시설 찾기"
+		content: "강남구민을 위한 의료·요양·복지·주거 통합돌봄 안내와 강남 통합돌봄 지도 찾기"
 	}] }),
 	component: lazyRouteComponent($$splitComponentImporter$1, "component")
 });
 var $$splitComponentImporter = () => import("./services-0Gcrbpb-.mjs");
 var Route = createFileRoute("/services")({
-	head: () => ({ meta: [{ title: "우리동네 돌봄지도 | 강남형 통합돌봄 G-care" }, {
+	head: () => ({ meta: [{ title: "강남 통합돌봄 지도 | 강남형 통합돌봄 G-care" }, {
 		name: "description",
-		content: "강남구 사회복지시설을 시설명, 유형, 주소로 검색하세요."
+		content: "강남구 통합돌봄 참여기관을 기관명, 서비스유형, 주소로 검색하세요."
 	}] }),
 	component: lazyRouteComponent($$splitComponentImporter, "component")
 });

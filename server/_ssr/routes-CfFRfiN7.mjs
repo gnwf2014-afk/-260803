@@ -649,7 +649,7 @@ function HomePage() {
 								children: [
 									/* @__PURE__ */ (0, import_jsx_runtime.jsxs)("span", {
 										className: "inline-flex w-fit items-center gap-2 rounded-full bg-white/15 px-3 py-1.5 text-xs font-bold",
-										children: [/* @__PURE__ */ (0, import_jsx_runtime.jsx)(MapPin, { className: "h-4 w-4" }), " 우리동네 돌봄지도"]
+										children: [/* @__PURE__ */ (0, import_jsx_runtime.jsx)(MapPin, { className: "h-4 w-4" }), " 강남 통합돌봄 지도"]
 									}),
 									/* @__PURE__ */ (0, import_jsx_runtime.jsxs)("h2", {
 										className: "mt-6 text-3xl font-black leading-tight",
@@ -672,7 +672,7 @@ function HomePage() {
 								className: "relative min-h-[310px] overflow-hidden bg-[#f5f1e7]",
 								children: [/* @__PURE__ */ (0, import_jsx_runtime.jsx)("img", {
 									src: map_gangnam_default,
-									alt: "강남구 우리동네 돌봄지도",
+									alt: "강남구 통합돌봄 지도",
 									className: "absolute inset-0 h-full w-full object-cover transition duration-500 group-hover:scale-[1.025]"
 								}), /* @__PURE__ */ (0, import_jsx_runtime.jsxs)("div", {
 									className: "absolute inset-x-4 bottom-4 grid grid-cols-3 overflow-hidden rounded-2xl border border-white/80 bg-white/92 text-center text-[#173e47] shadow-xl backdrop-blur",
@@ -691,10 +691,10 @@ function HomePage() {
 											className: "border-r border-[#dcebe8] px-2 py-3",
 											children: [/* @__PURE__ */ (0, import_jsx_runtime.jsx)("b", {
 												className: "block text-lg text-[#d46a3b]",
-												children: "285개"
+												children: "119개"
 											}), /* @__PURE__ */ (0, import_jsx_runtime.jsx)("span", {
-												className: "text-[10px] text-[#6a7f84]",
-												children: "복지시설"
+													className: "text-[10px] text-[#6a7f84]",
+													children: "참여기관"
 											})]
 										}),
 										/* @__PURE__ */ (0, import_jsx_runtime.jsxs)("div", {

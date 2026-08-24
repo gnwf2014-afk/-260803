@@ -29,7 +29,7 @@ var menus = [
 		href: "/#process"
 	},
 	{
-		label: "우리동네 돌봄지도",
+		label: "강남 통합돌봄 지도",
 		href: "/services"
 	},
 	{
@@ -185,7 +185,7 @@ function SiteFooter() {
 						/* @__PURE__ */ (0, import_jsx_runtime.jsx)("a", {
 							href: "/services",
 							className: "hover:text-white",
-							children: "우리동네 돌봄지도"
+							children: "강남 통합돌봄 지도"
 						})
 					]
 				})] })

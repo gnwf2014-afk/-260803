@@ -3,22 +3,22 @@ var tsrStartManifest = () => ({ routes: {
 	__root__: {
 		filePath: "/home/user/build-site/src/routes/__root.tsx",
 		children: ["/", "/services"],
-		preloads: ["/assets/index-BRigp8p6.js"],
+		preloads: ["/assets/index-mAVRMUVx.js"],
 		scripts: [{ attrs: {
 			type: "module",
 			async: !0,
-			src: "/assets/index-BRigp8p6.js"
+			src: "/assets/index-mAVRMUVx.js"
 		} }]
 	},
 	"/": {
 		filePath: "/home/user/build-site/src/routes/index.tsx",
 		children: void 0,
-		preloads: ["/assets/routes-fix0692e1.js", "/assets/map-gangnam-pB8UKu--.js"]
+		preloads: ["/assets/routes-fixWHoH7xwW.js", "/assets/map-gangnam-38ViVVg3.js"]
 	},
 	"/services": {
 		filePath: "/home/user/build-site/src/routes/services.tsx",
 		children: void 0,
-		preloads: ["/assets/services-DANwIzbe.js", "/assets/map-gangnam-pB8UKu--.js"]
+		preloads: ["/assets/services-7Vq4Ekfk.js", "/assets/map-gangnam-38ViVVg3.js"]
 	}
 } });
 //#endregion
