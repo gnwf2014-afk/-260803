@@ -174,7 +174,7 @@ var PROGRAMS = [
 		no: 1,
 		title: "스마트 시니어 하우스",
 		tagline: "IoT 안전·건강 모니터링으로 살던 집에서 안심 생활",
-		image: "/assets/program-clay-1-smart-house-DFcxZwBN.png",
+		image: "/assets/program-real-1-smart-house-tYchlkcF.png",
 		target: [
 			"강남구 거주 만 65세 이상 어르신",
 			"독거·고령 부부 가구 우선",
@@ -197,7 +197,7 @@ var PROGRAMS = [
 		no: 2,
 		title: "스마트 통합돌봄 지원센터 건강증진",
 		tagline: "건강 측정·운동·교육이 한 곳에서, 동네 건강 허브",
-		image: "/assets/program-clay-2-health-Cmwvsq6U.png",
+		image: "/assets/program-real-2-health-hRuB1ApL.png",
 		target: ["강남구 거주 어르신 및 만성질환자", "건강관리가 필요한 1인 가구"],
 		support: [
 			"혈압·혈당·체성분 등 정기 건강 측정",
@@ -212,7 +212,7 @@ var PROGRAMS = [
 		no: 3,
 		title: "퇴원환자 지역연계",
 		tagline: "병원에서 집으로, 끊김 없는 회복 케어",
-		image: "/assets/program-clay-3-discharge-Cfo5aI_g.png",
+		image: "/assets/program-real-3-discharge-cME2Fryf.png",
 		target: ["강남구 거주 퇴원 예정·직후 환자", "재가 돌봄·재활이 필요한 만성·중증질환자"],
 		support: [
 			"퇴원 전 사례관리사 상담 및 가정 환경 점검",
@@ -227,7 +227,7 @@ var PROGRAMS = [
 		no: 4,
 		title: "생애 말기 호스피스",
 		tagline: "마지막 순간까지 존엄한 삶, 가족과 함께",
-		image: "/assets/program-clay-4-hospice-c-jOUDA8.png",
+		image: "/assets/program-real-4-hospice-hWv3H6ls.png",
 		target: ["말기 질환으로 진단받은 어르신과 가족", "가정형 호스피스 돌봄을 희망하는 가구"],
 		support: [
 			"통증·증상 관리 및 정서·영적 돌봄",
@@ -242,7 +242,7 @@ var PROGRAMS = [
 		no: 5,
 		title: "방문운동",
 		tagline: "전문가가 집으로 찾아가는 1:1 맞춤 운동",
-		image: "/assets/program-clay-5-exercise-DKYNq8wh.png",
+		image: "/assets/program-real-5-exercise-PfXoG3rm.png",
 		target: ["외출이 어려운 어르신", "낙상 위험·근감소증·만성질환자"],
 		support: [
 			"운동처방사·물리치료사 가정 방문 (주 1~2회)",
@@ -257,7 +257,7 @@ var PROGRAMS = [
 		no: 6,
 		title: "방문진료 본인부담금 지원",
 		tagline: "집에서 받는 진료, 부담은 강남구가 함께",
-		image: "/assets/program-clay-6-visit-BP8nVggL.png",
+		image: "/assets/program-real-6-visit-Suzj3nkl.png",
 		target: ["강남구 거주 거동 불편 어르신·중증 환자", "기초생활수급·차상위·저소득 가구"],
 		support: [
 			"의사·간호사 가정 방문 진료비 본인부담금 지원 (회당)",
@@ -272,7 +272,7 @@ var PROGRAMS = [
 		no: 7,
 		title: "강남 AI 포용케어",
 		tagline: "AI 스피커·태블릿으로 24시간 곁에 있는 돌봄",
-		image: "/assets/program-clay-7-ai-B7nWsB-U.png",
+		image: "/assets/program-real-7-ai-fKcTEDd7.png",
 		target: ["독거 어르신, 디지털 취약 계층", "정서 지원·안부 확인이 필요한 가구"],
 		support: [
 			"AI 스피커·태블릿 무상 제공 및 설치",

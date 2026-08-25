@@ -3,17 +3,17 @@ var tsrStartManifest = () => ({ routes: {
 	__root__: {
 		filePath: "/home/user/build-site/src/routes/__root.tsx",
 		children: ["/", "/services"],
-		preloads: ["/assets/index-mAVRMUVx.js"],
+		preloads: ["/assets/index-HTh8UuBy.js"],
 		scripts: [{ attrs: {
 			type: "module",
 			async: !0,
-			src: "/assets/index-mAVRMUVx.js"
+			src: "/assets/index-HTh8UuBy.js"
 		} }]
 	},
 	"/": {
 		filePath: "/home/user/build-site/src/routes/index.tsx",
 		children: void 0,
-		preloads: ["/assets/routes-fixWHoH7xwW.js", "/assets/map-gangnam-38ViVVg3.js"]
+		preloads: ["/assets/routes-fixgQNnJ1bs.js", "/assets/map-gangnam-38ViVVg3.js"]
 	},
 	"/services": {
 		filePath: "/home/user/build-site/src/routes/services.tsx",
