@@ -691,7 +691,7 @@ function HomePage() {
 											className: "border-r border-[#dcebe8] px-2 py-3",
 											children: [/* @__PURE__ */ (0, import_jsx_runtime.jsx)("b", {
 												className: "block text-lg text-[#d46a3b]",
-												children: "119개"
+												children: "156개"
 											}), /* @__PURE__ */ (0, import_jsx_runtime.jsx)("span", {
 													className: "text-[10px] text-[#6a7f84]",
 													children: "참여기관"
